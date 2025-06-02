@@ -1,0 +1,1 @@
+Đưa file boot.wim của winpe vào đây đổi tên thành winpe.wim
