@@ -4,6 +4,7 @@
 SYSPREP TOOL là công cụ tự động hóa quá trình Sysprep, giúp giữ lại mọi tinh chỉnh cá nhân hóa Windows, tích hợp boot WinPE và backup ghost. Tool hỗ trợ Windows 10/11, với giao diện thân thiện, dễ sử dụng.
 
 ![SYSPREP TOOL](sysprep.png)
+
 ## Tính năng
 - Tự động tạo file unattend.xml với CopyProfile=true, giữ lại mọi tinh chỉnh cho user mới.
 - Thêm driver cho Windows (ví dụ: Driver ổ cứng cho máy CPU Gen 10/11/12/13/14).
@@ -37,6 +38,31 @@ SYSPREP TOOL là công cụ tự động hóa quá trình Sysprep, giúp giữ l
 
 6. **Đổi theme (tùy chọn)**:
    - Vào tab Settings, chọn theme từ danh sách có sẵn.
+  
+## Hình Ảnh Về App
+### Giao Diện App
+Màn Hình Chính Khi Khởi Động
+
+![SYSPREP TOOL](/Screenshot/1.png)
+
+Phần Giới Thiệu App
+
+![SYSPREP TOOL](/Screenshot/2.png)
+
+Phần Cài Đặt
+
+![SYSPREP TOOL](/Screenshot/3.png)
+
+### Giao Diện Khi Chạy Sysprep
+
+Màn Hình Đang Chạy Sysprep
+
+![SYSPREP TOOL](/Screenshot/4.png)
+
+Chạy Sysprep Hoàn tất
+
+![SYSPREP TOOL](/Screenshot/5.png)
+
 
 ## Hướng dẫn tùy chỉnh (Nếu rành về code)
 ### 1. Chỉnh sửa giao diện hoặc chức năng
